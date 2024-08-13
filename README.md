@@ -17,6 +17,11 @@ Anything related to the field of data science, including data analysis, machine 
 
 ## ⚡ Fun Fact
 When I’m not busy crunching numbers or building models, you can find me curating Pinterest boards, crafting profound blog posts, penning the next great poem, and meticulously assembling playlists—because obviously, that’s what every data scientist does in their spare time. 🎨✍️🎶
+## 📝 Blog Posts
+When I’m not immersed in data science, I enjoy writing insightful blog posts on Hashnode. Check out my latest articles and musings [here](https://hashnode.com/@jamadadeharshi). 
+
+Feel free to explore my blog to see my thoughts on data science, tech trends, and more!
+
 
 
 
