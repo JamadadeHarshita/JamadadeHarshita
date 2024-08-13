@@ -1,18 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Harshita! 👋
 
-<!--
-**JamadadeHarshita/JamadadeHarshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I’m passionate about data science and excited to share my journey with you!
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+I’m currently diving deep into data-related projects, with a particular focus on creating dashboards and building models. If you’re interested in data visualization and analytics, let’s connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Exploring
+I’m actively learning and exploring:
+- **Tableau**: To enhance my data visualization skills.
+- **Machine Learning**: To build predictive models and insights.
+- **Natural Language Processing (NLP)**: To understand and process human language data.
 
-[![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamadadeHarshita&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 💬 Ask Me About
+Anything related to the field of data science, including data analysis, machine learning, and NLP. I’m always excited to discuss these topics and share insights.
+
+## ⚡ Fun Fact
+When I’m not busy crunching numbers or building models, you can find me curating Pinterest boards, crafting profound blog posts, penning the next great poem, and meticulously assembling playlists—because obviously, that’s what every data scientist does in their spare time. 🎨✍️🎶
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshita-jamadade-5763a6195/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harshitaa1511) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=JamadadeHarshita&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jamadadeharshita&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamadadeharshita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
