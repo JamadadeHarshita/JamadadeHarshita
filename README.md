@@ -8,7 +8,6 @@ I’m currently diving deep into data-related projects, with a particular focus 
 ## 🌱 Learning & Exploring
 I’m actively learning and exploring:
 - **Tableau**: To enhance my data visualization skills.
-- **Machine Learning**: To build predictive models and insights.
 - **Natural Language Processing (NLP)**: To understand and process human language data.
 
 
