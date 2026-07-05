@@ -1,34 +1,84 @@
-# Hi there, I'm Harshita! 👋
+<div align="center">
 
-Welcome to my GitHub profile. I’m passionate about data science and excited to share my journey with you!
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=6B1020&text=Hi,I'm%20Harshita.&fontColor=FFD1DE" width="100%" alt="Harshita Jamadade Header" />
+</div>
 
-## 🔭 Current Focus
-I’m currently diving deep into data-related projects, with a particular focus on creating dashboards and building models. If you’re interested in data visualization and analytics, let’s connect!
+<div align="center">
 
-## 🌱 Learning & Exploring
-I’m actively learning and exploring:
-- **Tableau**: To enhance my data visualization skills.
-- **Natural Language Processing (NLP)**: To understand and process human language data.
+### AI Engineer · NLP Engineer
+
+</div>
+
+---
+
+- 🔭 Currently working on knowing all that i have to in the world of NLP
+- 🌱 Deepening expertise in **agentic workflows and LLM evaluation frameworks**
+- 🧠 Core obsession: **NLP, hybrid search, and making LLMs measurably better**
+- 💼 Open to **AI Engineer / Data Scientist roles** in Berlin, Munich or anywhere in Germany
+- ✍️ I write ML/NLP breakdowns on **[Hashnode](https://hashnode.com/@jamadadeharshi)**
+- 📫 Reach me at **harshitajamadade@gmail.com**
+- ⚡ When I'm not building pipelines: curating Pinterest boards, assembling very specific playlists, and writing poems nobody asked for 🎨🎶✍️
+
+---
+
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+  <a href="https://github.com/jamadadeharshita" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/harshita-jamadade-5763a6195" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">🧠 NLP & AI Core</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepEval-6C3483?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white"/>
+</p>
+
+<h3 align="left">🔍 Search & Retrieval</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BM25-grey?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jina%20Embeddings-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=for-the-badge&logoColor=white"/>
+</p>
+
+<h3 align="left">☁️ Cloud & Data Engineering</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+</p>
+
+<h3 align="left">💻 Languages & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,linux,flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 
-## 💬 Ask Me About
-Anything related to the field of data science, including data analysis, machine learning, and NLP. I’m always excited to discuss these topics and share insights.
 
-## ⚡ Fun Fact
-When I’m not busy crunching numbers or building models, you can find me curating Pinterest boards, crafting profound blog posts, penning the next great poem, and meticulously assembling playlists—because obviously, that’s what every data scientist does in their spare time. 🎨✍️🎶
-## 📝 Blog Posts
-When I’m not immersed in data science, I enjoy writing insightful blog posts on Hashnode. Check out my latest articles and musings [here](https://hashnode.com/@jamadadeharshi). 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamadadeharshita&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamadadeharshita&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
-Feel free to explore my blog to see my thoughts on data science, tech trends, and more!
+---
 
+<div align="center">
+  <i>"If a machine is expected to be infallible, it cannot also be intelligent. — Turing"</i>
+</div>
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/harshita-jamadade-5763a6195) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harshitaa1511) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-
+<i> <a href="https://i.pinimg.com/736x/9e/7a/45/9e7a456947f0f95cf6fc7b8177ece5d6.jpg">Every language model ever.</a></i>
